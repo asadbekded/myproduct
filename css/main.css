@@ -465,6 +465,8 @@ main {
 }
 
 .footer-top {
+  width: 968px;
+  margin: auto;
   display: flex;
   padding: 14px 36px 0 51px;
   background-color: #02897A;
