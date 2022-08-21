@@ -462,4 +462,39 @@ main {
 .site-header__btn {
   border: none;
   background-color: #fff;
+}
+
+.footer-top {
+  display: flex;
+  padding: 14px 36px 0 51px;
+  background-color: #02897A;
+  border-radius: 32px;
+}
+
+.footer-top__wrapper {
+  padding-top: 49px;
+  display: inline-block;
+  margin-right: 20px;
+  width: 510px;
+}
+
+.footer-top__title {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 151.4%;
+  color: #FFFFFF;
+}
+
+.footer-top__link {
+  margin-bottom: 75px;
+  text-decoration: none;
+  padding: 13px 35px 7px 33px;
+  margin-top: 60px;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  color: #02897A;
+  background-color: #FFFFFF;
+  border-radius: 8px;
 }/*# sourceMappingURL=main.css.map */
