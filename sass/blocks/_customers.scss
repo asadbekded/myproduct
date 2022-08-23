@@ -25,3 +25,94 @@
 }
 
 //-------------------------------------------------- header finish-------------------------------------
+//--------------------------------------------- product section begin------------------------
+.product-section{
+   background-color: #F5F5F5;
+}
+.product-content{
+   padding-top: 24px;
+   padding-bottom: 68px;
+}
+.product-title{
+   text-align: center;
+   color: #22343D;
+   font-weight: bold;
+   font-size: 34px;
+   line-height: 100%;
+}
+.product-list{
+   list-style-type: none;
+   margin: 0px;
+   padding: 0px;
+   margin-top: 50px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.product-item{
+   position: relative;
+   text-align: center;
+   width: 100%;
+   max-width: 350px;
+   padding: 114px 37px 34px 37px;
+   border: 2px solid #DEDEDE;
+   border-radius: 20px;
+
+   &::before{
+      position: absolute;
+      background-image: url("../images/icon.svg");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      width: 51px;
+      height: 50px;
+      top: 32px;
+      left: 140px;
+      content: "";
+   }
+}
+.product-item:nth-child(2){
+   &::before{
+      position: absolute;
+      background-image: url("../images/icon-line.svg");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      width: 51px;
+      height: 50px;
+      top: 32px;
+      left: 140px;
+      content: "";
+   }
+}
+.way-item{
+   padding: 114px 25px 34px 25px;
+   
+   &::before{
+      position: absolute;
+      background-image: url("../images/icon-love.svg");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      width: 51px;
+      height: 50px;
+      top: 32px;
+      left: 140px;
+      content: "";
+   }
+}
+.result-title{
+   margin: 0px;
+   margin-bottom: 16px;
+   color: #22343D;
+   font-weight: bold;
+   font-size: 24px;
+   line-height: 92%;
+}
+.product-text{
+   font-weight: 200px;
+   font-size: 16px;
+   line-height: 113%;
+   color: #22343D;
+   letter-spacing: 0.2px;
+}
+
+//----------------------------------------- product section finish------------------------------------
