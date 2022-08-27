@@ -136,11 +136,13 @@
 }
 
 .my-hero__subitem {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 138%;
-    letter-spacing: 0.2px;
-    color: #22343D;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 138%;
+letter-spacing: 0.2px;
+color: #22343D;
 }
 
 .my-hero__subitem--active {
@@ -154,10 +156,12 @@
     padding: 11px 19px 11px 18px;
     background-color: #02897A;
     border-radius: 8px;
+    font-family: 'Montserrat';
+    font-style: normal;
     font-weight: 600;
     font-size: 18px;
     line-height: 22px;
-    color: #FFFFFF;
+    color: #ffffff;
 }
 
 .my-hero__link--active {

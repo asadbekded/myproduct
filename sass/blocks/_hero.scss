@@ -30,38 +30,34 @@ font-size: 20px;
 line-height: 160%;
 color: #22343D;
 } 
-.hero__inner__form{ 
-    margin-bottom: 24px; 
-    display: flex;  
-    justify-content: space-between;
-    width: 100%; 
-    max-width: 469px; 
-    padding: 8px; 
-    border: 1px solid #EAEAEA;
-    border-radius: 100px;
+.hero__inner__form__blog{ 
+   width: 469px;
+   margin-bottom: 24px;
+   padding: 8px 8px 8px 27px; 
+   border: 1px solid #EAEAEA;
+   border-radius: 100px;
 } 
 .hero__inner__form__label{  
- padding-left: 10px; 
- font-weight: 400;
- font-size: 16px;
- line-height: 100%;
- color: #22343D;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    color: #22343D;
+    
 } 
 .hero__inner__form__input{ 
-  display: inline-block; 
-  border: none; 
-  outline: none;
+    border: none; 
+    outline: none;
 } 
 .hero__inner__form__button{ 
-  margin-left: 115px; 
-  background: #02897A ; 
-  border: none;
-border-radius: 100px; 
-padding: 29px 25px; 
-font-weight: 600;
-font-size: 16px;
-line-height: 0px;
-color: #FFFFFF;
+    background-color: #02897A ; 
+    border: none;
+    border-radius: 100px; 
+    padding: 25px 19px 25px 24px; 
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 0px;
+    color: #FFFFFF;
+    margin-left: 109px; 
 } 
 
 .hero__inner__content__text{ 
