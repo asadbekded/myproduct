@@ -323,8 +323,19 @@
 }
 
 @media only screen and (max-width:570px){
+   .busines-content{
+      width: 100%;
+      max-width: 100%;
+      text-align: center;
+      margin: 0px auto;
+   }
    .busines-list{
       display: block;
+      text-align: center;
+      margin: 0px auto;
+   }
+   .busines-item{
+      max-width: 100%;
    }
 }
 
