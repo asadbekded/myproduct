@@ -8,7 +8,20 @@
 }
 
 .logo {
-    display: block;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.logo__img {
+    margin-right: 16px;
+}
+
+.logo__text {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 93%;
+    color: #173A56;
 }
 
 .navbar {
@@ -65,4 +78,5 @@
 .site-header__btn {
     border: none;
     background-color: #fff;
+    border-radius: 50%;
 }
