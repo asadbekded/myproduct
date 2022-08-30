@@ -1,0 +1,105 @@
+.service__inner__title{ 
+margin-bottom: 27px;
+text-align: center; 
+font-weight: 700;
+font-size: 34px;
+line-height: 168%;
+text-align: center;
+color: #252B42;
+} 
+.service__inner__subtitle{  
+  
+    width: 100%; 
+    max-width: 312px; 
+    margin: 0 auto; 
+    text-align: center; 
+    font-weight: 500;
+font-size: 18px;
+line-height: 156%;
+text-align: center;
+color: #374754; 
+margin-bottom: 65px;
+} 
+.service__inner__servis{ 
+  text-align: center;
+  margin-bottom: 64px;
+} 
+.service-end__link{ 
+    margin-right: 21px;
+    text-decoration: none;
+} 
+.service-end__link:nth-child(3){ 
+
+    margin-right: 0;
+} 
+.service__inner__ayfirem{ 
+  width: 100%; 
+  max-width: 871px;
+  margin: 0 auto; 
+  margin-bottom: 60px;
+} 
+
+.service__inner__forms{ 
+     width: 100%; 
+     max-width: 868px;
+    margin: 0 auto;  
+    padding: 52px 50px;
+    border: 1px solid #F5F5F5; 
+    border-radius: 8px; 
+    margin-bottom: 149px;
+} 
+.service__inner__forms__title{ 
+    margin: 0;
+    text-align: center; 
+    margin-bottom: 45px; 
+    font-weight: 700;
+font-size: 24px;
+line-height: 138%;
+color: #252B42;
+} 
+.service__inner__forms__subtitle{ 
+
+    display: flex; 
+    flex-direction: column;
+} 
+.service__inner__forms__label{   
+    border-radius: 39px;
+    border: 1px solid #EAEAEA;
+    padding: 19px 20px; 
+    width: 100%; 
+    background: #F5F5F5; 
+    margin-bottom: 45px;
+} 
+.service__inner__forms__input{ 
+    background: #F5F5F5;
+    display: inline-block; 
+    border: none; 
+    outline: none;
+} 
+.service__inner__forms__textarea{ 
+    width: 100%; 
+    background: #F5F5F5; 
+    border: 1px solid #EAEAEA; 
+    margin-bottom: 45px;
+} 
+.service__inner__forms__textarea_active{  
+    padding: 10px;
+    width: 100%; 
+    background: #F5F5F5; 
+    margin-bottom: 45px; 
+    border: none;
+    resize: none;  
+    outline: none;
+} 
+.service__inner__forms__butten{ 
+    background: #02897A;
+    border-radius: 35px;
+    width: 100%; 
+    max-width: 145px; 
+    padding: 18px 54px; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    color: #FFFFFF; 
+    border: none;
+} 
