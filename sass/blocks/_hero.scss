@@ -1,3 +1,58 @@
+<<<<<<< HEAD
+.hero__inner-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 114px;
+}
+
+.hero__inner {
+  width: 458px;
+}
+
+.hero__title {
+  font-family: 'Poppins';
+  margin-bottom: 18px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 150%;
+  color: #22343D;
+}
+
+.hero__text {
+  font-family: 'Poppins';
+  margin-bottom: 45px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 150%;
+  color: #22343D;
+}
+
+.hero__st-link {
+  font-family: 'Poppins';
+  margin-right: 31px;
+  padding: 15px 41px;
+  font-weight: 700;
+  font-size: 16px;
+  background-color: #02897A;
+  text-decoration: none;
+  border-radius: 4px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+
+svg {
+  margin-right: 8px;
+}
+
+.hero__nd-link {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #02897A;
+=======
 .site__hero{ 
 
     margin: 76px 0 123px;
@@ -108,4 +163,5 @@ color: #22343D;
 @media only screen and (max-width:570px){ 
    
 
+>>>>>>> 236ddb5733f00405e4d073671b376f3bef87e3ee
 }
